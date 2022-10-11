@@ -1,0 +1,27 @@
+hello,
+    My APK name is UNIQEY. i decided to make this app for security purpose.
+it is may possible that user need to make their data and conversation secure and secret. 
+for that i try to solve this problem and i make one APK which is Decode user data or message and user can store those converted data at any where.
+
+Use of this app is user can able to decode and encode their data and get those converted data. 
+the use of this app two users can Communicate with hiden lenguage.
+
+Special feture of this apk :
+    UNIQEY app will encode your data or message into 1 uniq from of string and you can also decode those data and get orginal data or message.
+
+    User interface of this app is simple to use. The user can able to past their data for decode and copy their converted data. 
+User can decode and encode their data.
+
+So this 1st version of my app. In next version, I will develop some time limit where user able to decode message within particular time, after they can't able to decode the message. 
+And also ask password when user decode message 
+and also user can able to store their data in application.
+
+Dead line of data:
+    The data may have their dead line for validation of an data. 
+In case the user trying to decode their data after deadline that situation user can not get original data.
+
+Password functionality:
+In this functionality who's user know the right password of particular data those only user can get original data.
+
+Store functionality :
+User can store their data in form of file and take data at any time.
